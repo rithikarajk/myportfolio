@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Libraries used
+
+1. React
+2. react-router-dom
+3. react-burger-menu
+
+## Fonts used
+
+Poppins - [htttps://fonts.google.com/specimen/Poppins](htttps://fonts.google.com/specimen/Poppins)"# potpourri" 
